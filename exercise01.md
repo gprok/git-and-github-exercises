@@ -22,5 +22,8 @@ The new project will have a URL: https://github.com/your-user-name/my-first-proj
 - Commit changes: ```git commit -m "Write a message here, explaining the purpose of the commit"```  
 - Push the latest commit on GitHub: ```git push -u origin main```  
 
+6. Make some changes 
+Change your Python file, or add a new file, then repeat step 5.
+
 
 
